@@ -17,7 +17,7 @@ var script = {
     },
   },
 
-  mounted: function() {
+  created: function() {
     this.create();
   },
 
